@@ -1,0 +1,6 @@
+{
+  "packetType": 7,
+  "payload": "<Pkt version='6'><Id mid='mid' cid='cid' sid='sid' sessionid='' verb='AdvSlot' clientLang='en'/><Request verbex='Refresh'/></Pkt>",
+  "useFilter": true,
+  "isBase64Encoded": false
+}
